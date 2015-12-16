@@ -9,11 +9,9 @@ public class Item {
 		this.setName(name);
 		this.setSellIn(sellIn);
 		this.setQuality(quality);
-		
-		
+
 	}
 
-	/* Generated getter and setter code */
 	public String getName() {
 		return name;
 	}
